@@ -1,3 +1,4 @@
 - Support_Vecto_Machine.pdf là slide thuyết trình
 - Để các file gif trong slide 33, 38 của file Support_Vector_Machine.pdf có thể chạy được thầy cần mở file bằng Acrobat Reader.
 - dual_objective.gif, svm_iterations.gif là các file trực quan hóa được dùng ở slide 33, 38
+- Folder demo chứa file demo_main.ipynb là file demo chính của project và các file .py được dùng để train các mô hình .pkl.
